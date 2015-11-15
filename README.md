@@ -1,2 +1,0 @@
-# hobbytimes
-Hobbytimes Site
